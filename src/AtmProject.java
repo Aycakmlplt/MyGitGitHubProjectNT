@@ -14,6 +14,10 @@ public class AtmProject {
         //version ayc1
         System.out.println("Bir kisim kodlar");
         //ayc2
+        System.out.println();
+        //ayc3
+        System.out.println();
+        //localde degisiklik yaptim.
 
     }
 }

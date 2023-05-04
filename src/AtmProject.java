@@ -12,5 +12,8 @@ public class AtmProject {
         //version4
         System.out.println("Ayca branci kodlari yazdim");
         //version ayc1
+
+        System.out.println("Bir kisim kodlar");
+        //ayc2
     }
 }

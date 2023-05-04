@@ -18,6 +18,7 @@ public class AtmProject {
         //ayc3
         System.out.println();
         //localde degisiklik yaptim.
+        //Remoteda degisiklik yaptim
 
     }
 }
